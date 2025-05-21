@@ -19,7 +19,7 @@
 ---
 
 ## 📫 How to Reach Me  
-📩 **Email:** [doctorengineertesfamichael@gmail.com](mailto:doctorengineertesfamichael@gmail.com)  
+📩 **Email:** [tesfamichaelad@gmail.com](mailto:tesfamichaelad@gmail.com)  
 💼 **LinkedIn:** [Tesfamichael Abebe](https://www.linkedin.com/in/tesfamichael-abebe-damtew/)  
 🐙 **GitHub:** [@TesfamichaelA-code](https://github.com/TesfamichaelA-code)  
 
