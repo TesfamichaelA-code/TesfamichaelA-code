@@ -39,10 +39,16 @@ I am deeply engaged in the end-to-end **LLM Creation Pipeline**, with a focus on
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TesfamichaelA-code&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TesfamichaelA-code&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TesfamichaelA-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TesfamichaelA-code&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TesfamichaelA-code&theme=tokyonight&hide_border=true)
+
+</p>
+
 
 <br/>
 
