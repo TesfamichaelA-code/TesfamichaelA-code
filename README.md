@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> Software Engineer | 4th Year Student</h3>
+  <h3> Software Engineer</h3>
 </div>
 
 <p align="center">
